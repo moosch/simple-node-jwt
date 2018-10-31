@@ -1,0 +1,9 @@
+# VSCode FTW
+.vscode
+
+/node_modules
+.env
+package-lock.json
+
+# *sigh* yes, I'm on a Mac
+.DS_Store
